@@ -1,8 +1,7 @@
 # Hello, I'm Matias 👋
 
 ## 👨‍💻 About Me:
-- 🎓 I'm a **Computer Engineering** student with a focus on **Machine Learning**
-- 🤖 Strong theoretical background in **Artificial Intelligence**
+- 🤖 I'm a **Computer Engineering** student with a focus on **Machine Learning**
 - 💻 Actively developing skills in **Python** and **Machine Learning Engineering**
 - 🌱 Currently learning **practical applications of ML** and working on projects in **AI**
 - 👯 Open to collaboration on **Machine Learning** and **AI** projects
@@ -10,7 +9,7 @@
 ## 🛠️ Technologies and Tools:
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaatiiSole&layout=compact&theme=radical)
 - **Languages:** Python, Java, C++, Octave.
-- **Tools:** Git, MySQL, TensorFlow, Scikit-learn, NumPy.
+- **Tools:** Git, MySQL, PyTorch, Scikit-learn, NumPy.
 
 ## 📫 How to reach me:
 - LinkedIn: www.linkedin.com/in/matiassole
