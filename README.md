@@ -1,31 +1,52 @@
-# Hello, I'm Matias 👋
+# Hello, I'm Matías 👋
 
-## 👨‍💻 About Me:
-- 🤖 I'm a **Computer Engineering** student with a focus on **Machine Learning**
-- 💻 Actively developing skills in **Python** and **Machine Learning Engineering**
-- 🌱 Currently learning **practical applications of ML** and working on projects in **AI**
-- 👯 Open to collaboration on **Machine Learning** and **AI** projects
+## 👨‍💻 About Me
+I'm a **Computer Engineer** with a strong background in **software engineering**, **data**, and **backend development**, currently focusing my career on **Artificial Intelligence applied to real-world systems**.
 
-## 🛠️ Technologies and Tools:
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaatiiSole&layout=compact&theme=radical)
-- **Languages:** Python, Java, C++, Octave.
-- **Tools:** Git, MySQL, PyTorch, Scikit-learn, NumPy.
+I’m especially interested in:
+- Integrating **LLMs and AI solutions** into backend applications
+- Designing **robust architectures** that combine data, automation, and AI
+- Solving complex problems with a strong understanding of **business and systems**
 
-## 📫 How to reach me:
-- LinkedIn: www.linkedin.com/in/matiassole
+I have experience leading and developing end-to-end projects, from requirements analysis and architecture design to implementation and deployment. I learn new technologies quickly and enjoy working in environments where engineering decisions matter.
+
+---
+
+## 🧠 Areas of Interest
+- Artificial Intelligence & Machine Learning
+- LLMs, RAG, Multimodal AI
+- Backend development and system architecture
+- Data processing and analytics
+- Automation and optimization of business processes
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming & Backend
+- **Languages:** Python, Java, C#, C++, SQL
+- **Backend:** .NET / ASP.NET Core, Java
+- **APIs:** RESTful services
+
+### AI / Machine Learning
+- LLMs, RAG architectures
+- Embeddings (CLIP, Hugging Face)
+- Computer Vision, OCR
+- NumPy, PyTorch, scikit-learn
+
+### Data & Databases
+- MySQL, DuckDB, OrientDB
+- Data modeling and analytical queries
+- ETL-style data processing
+
+### Tools & Platforms
+- Git, Docker
+- Power Platform (Power Apps, Power Automate, AI Builder)
+- Linux environments
+
+---
+
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/matiassole
 - Email: matisole123@gmail.com
 
-<!--
-**MaatiiSole/MaatiiSole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
